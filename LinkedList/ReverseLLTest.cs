@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Rotate
+namespace Rotate.LinkedList
 {
     public static class ReverseLLTest
     {
