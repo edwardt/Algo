@@ -1,0 +1,4 @@
+C:\Users\Administrator\Documents\GitHub\Algo\bin\Debug\Rotate.exe
+C:\Users\Administrator\Documents\GitHub\Algo\bin\Debug\Rotate.pdb
+C:\Users\Administrator\Documents\GitHub\Algo\obj\x86\Debug\Rotate.exe
+C:\Users\Administrator\Documents\GitHub\Algo\obj\x86\Debug\Rotate.pdb

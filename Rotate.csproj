@@ -43,8 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ReverseLL1.cs" />
-    <Compile Include="ReverseLLTest.cs" />
+    <Compile Include="LinkedList\Node.cs" />
+    <Compile Include="LinkedList\ReverseLL1.cs" />
+    <Compile Include="LinkedList\ReverseLL2Iterative.cs" />
+    <Compile Include="LinkedList\ReverseLL2Recursive.cs" />
+    <Compile Include="LinkedList\ReverseLLTest.cs" />
+    <Compile Include="PermCombination\PermuteString.cs" />
+    <Compile Include="PermCombination\PermuteStringTest.cs" />
     <Compile Include="RotateSquare.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

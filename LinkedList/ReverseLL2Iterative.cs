@@ -14,10 +14,11 @@ namespace Rotate.LinkedList
             {
                 Node temp = startNode;
                 Node tail = null;
-                while()
-                {
+                //while()
+                //{
                     
-                }
+                //}
+                //newStart = tail;
             } 
             return newStart;
         }

@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using Rotate.LinkedList;
+using Rotate.PermCombination;
 
 namespace Rotate
 {
@@ -38,8 +40,13 @@ namespace Rotate
             //TraverseSquare(sqaure);
             #endregion Rotate Square
 
+            #region
+            PermuteStringTest.Test1();
+
+            #endregion
+
             #region ReverseLinkedList
-            ReverseLLTest.Test1();
+            //ReverseLLTest.Test1();
 
             #endregion ReverseLinkedList
 
